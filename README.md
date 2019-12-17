@@ -1,2 +1,2 @@
 #CRISPY WORLD!
-A simple to help you order order food from your smartphone.
+A simple Website to help you order order food from your Computer/Smartphone.
